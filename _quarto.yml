@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "[Student/Group Full Name]'s Analytics Lab"
+  title: "Student's Analytics Lab"
   navbar:
     search: true
     left:
@@ -45,11 +45,13 @@ format:
   html:
     toc: true
     toc-location: left
-    theme: 
-      light: pulse 
-      dark: superhero
-    css: styles.css
-
+    theme:
+      light: flatly
+      dark: darkly
+    backgroundcolor: "#f0f8ff"
+    mainfont: "Segoe UI"
+    fontsize: "1.1em"
+    fontcolor: "#2c3e50"
 
 editor: visual
 
