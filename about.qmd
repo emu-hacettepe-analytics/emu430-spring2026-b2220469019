@@ -5,26 +5,26 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2022 - ongoing.
 
 # Work Experience
 
 ## Employements
 
-1.  Firm xxx, position xx, year xxx
+1.  Türk Havacılık Uzay Sanayii A.Ş. (TUSAŞ), Candidate Engineer, 2026
 
-2.  Firm yyy, position yyy, year yyy
+2.  Trendyol Express, Warehouse Personnel, 2025
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
-
-2.  Firm bbb, position yyy, year yyy
+1.  TEI Tusaş Motor Sanayii A.Ş., Intern, 2025
 
 # Projects
 
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python, SQL
 
 # Hobbies
+
+Piano, Horse-riding
