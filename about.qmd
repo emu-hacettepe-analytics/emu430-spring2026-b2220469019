@@ -28,3 +28,5 @@ R, Quarto, Git, Python, SQL
 # Hobbies
 
 Piano, Horse-riding
+
+[Here, you can see my CV](cv/CV_2026)
