@@ -5,11 +5,58 @@ title: "Assignment 1"
 # Assignment 1
 
 ```{r}
-1 + 1
+my_first <- "SEYMA"
+my_birth_year <- 2004
+k <- (nchar(my_first) + my_birth_year) %% 15 + 8
+
+library(dslabs)
+data("polls_us_election_2016")
+data <- polls_us_election_2016
+if (k %% 2 == 0)
+  print(head(data, k))
+else
+  print(tail(data, k))
+
+
+
 ```
 
-My first assignment has two parts.
+My first assignment has two parts. First of all, I selected a video and watched the video. Then, I wrote the questions and clear brief of the video. After that, I did the R part as you see at the top of this document.
 
-## (a)
+## (a) 
+
+**Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler -Kerem Demirtaş & Erdi Daşdemir**
+
+This video provides a clear understanding of data science. It explains what data science is and what it is not, and also introduces the data science workflow. In addition, it emphasizes that problem definition is a crucial step in the data science workflow. It is also an informative and guiding video for people who want to focus on the field of data science.
+
+**a.1 Question with Multiple Choices:**
+
+**Which of the following is *not* a subject of data science?**
+
+a\) Inventory management\
+b) Customer behavior analysis\
+c) Recommendation systems\
+d) Image recognition\
+e) Bridge construction
+
+Answer: E
+
+**a.2 Question open ended**
+
+**Please write the steps of a typical data science workflow.**
+
+Answer:
+
+1\) Problem Definition
+
+2\) Data Collection and Preparation
+
+3\) Exploratory Data Analysis
+
+4\) Model Buildings and Algorithms
+
+5\) Evaluation
+
+6\) Production (Action) and Live Performance
 
 ## (b)
