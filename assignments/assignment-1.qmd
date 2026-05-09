@@ -6,7 +6,7 @@ title: "Assignment 1"
 
 My first assignment has two parts. First of all, I selected a video and watched the video. Then, I wrote the questions and clear brief of the video. After that, I did the R part as you see at the top of this document.
 
-## (a) 
+## (a)
 
 ```{r}
 my_first <- "SEYMA"
