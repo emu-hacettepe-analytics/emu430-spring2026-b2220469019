@@ -3,9 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "Student's Analytics Lab"
+  title: "Şeyma's Analytics Lab"
   navbar:
     search: true
+    background: primary
     left:
       - text: Home
         href: index.qmd
@@ -19,10 +20,9 @@ website:
             href: assignments.qmd
           - text: Project
             href: project.qmd
-            
     tools:
       - icon: github
-        href: https://twitter.com
+        href: https://github.com
       - icon: twitter
         href: https://twitter.com
       - icon: linkedin
@@ -32,26 +32,28 @@ website:
     - title: "Assignments"
       style: "docked"
       search: true
+      background: light
       contents:
         - assignments.qmd
         - assignments/assignment-1.qmd
-        - assignments/assignment-2.qmd  
+        - assignments/assignment-2.qmd
+
   page-navigation: true
   back-to-top-navigation: true
+
   page-footer:
-    center: "Hacettepe IE - EMU430 - 2026 Spring" 
+    center: "Şeyma Toksöz · Hacettepe IE · EMU430 · Spring 2026"
     border: true
+    background: dark
+
 format:
   html:
-    toc: true
-    toc-location: left
-    theme:
-      light: flatly
-      dark: darkly
-    backgroundcolor: "#f0f8ff"
-    mainfont: "Segoe UI"
-    fontsize: "1.1em"
-    fontcolor: "#2c3e50"
+    theme: litera
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    mainfont: "Nunito"
+    monofont: "Fira Code"
 
 editor: visual
-
