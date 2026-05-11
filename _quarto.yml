@@ -37,6 +37,11 @@ website:
         - assignments.qmd
         - assignments/assignment-1.qmd
         - assignments/assignment-2.qmd
+    - title: "About Me"
+      style: "docked"
+      background: light
+      contents:
+        - about.qmd
 
   page-navigation: true
   back-to-top-navigation: true
@@ -50,10 +55,6 @@ format:
   html:
     theme: litera
     css: styles.css
-    toc: false
-    smooth-scroll: true
-    link-external-newwindow: true
-    mainfont: "Nunito"
-    monofont: "Fira Code"
-
-editor: visual
+    toc: true
+    toc-location: left
+    toc-title: "On this page"

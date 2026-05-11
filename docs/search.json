@@ -28,21 +28,30 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "B.S., Industrial Engineering, Hacettepe University, Turkey, 2022 - ongoing."
+    "text": "B.S., Industrial Engineering, Hacettepe University, Turkey, 2022 - ongoing.",
+    "crumbs": [
+      "About Me"
+    ]
   },
   {
     "objectID": "about.html#employements",
     "href": "about.html#employements",
     "title": "About Me",
     "section": "Employements",
-    "text": "Employements\n\nTürk Havacılık Uzay Sanayii A.Ş. (TUSAŞ), Candidate Engineer, 2026\nTrendyol Express, Warehouse Personnel, 2025"
+    "text": "Employements\n\nTürk Havacılık Uzay Sanayii A.Ş. (TUSAŞ), Candidate Engineer, 2026\nTrendyol Express, Warehouse Personnel, 2025",
+    "crumbs": [
+      "About Me"
+    ]
   },
   {
     "objectID": "about.html#internships",
     "href": "about.html#internships",
     "title": "About Me",
     "section": "Internships",
-    "text": "Internships\n\nTEI Tusaş Motor Sanayii A.Ş., Intern, 2025"
+    "text": "Internships\n\nTEI Tusaş Motor Sanayii A.Ş., Intern, 2025",
+    "crumbs": [
+      "About Me"
+    ]
   },
   {
     "objectID": "assignments/assignment-1.html",

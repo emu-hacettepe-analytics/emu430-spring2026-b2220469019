@@ -28,8 +28,14 @@ body {
   color: white !important;
 }
 
-.navbar .nav-link:hover {
-  color: #fde68a !important;
+/* Navbar */
+.navbar {
+  background: linear-gradient(135deg, #6D28D9, #DB2777) !important;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  min-height: 70px;
 }
 
 /* Başlıklar */
